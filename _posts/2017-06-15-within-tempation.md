@@ -1,7 +1,7 @@
 ---
 title: whitin temptation
 ---
-![Test](/emerald/img/duit.JPG "Test")
+![Test](/emerald/img/bali.jpg "Test")
 
 Selagi masih muda, cobalah untuk keluar dari zona nyamanmu saat ini.Masih banyak hal baru yang perlu kamu ungkap di luar sana!
 
